@@ -1,0 +1,15 @@
+https://www.npmjs.com/package/bootstrap
+https://nodejs.org/en/
+https://getbootstrap.com/docs/4.6/layout/grid/
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/#flexbox-background
+https://getbootstrap.com/docs/4.6/utilities/flex/#order
+https://docs.npmjs.com/resolving-eacces-permissions-errors-when-installing-packages-globally
+https://refine.dev/blog/rem-vs-em/
+https://fontawesome.bootstrapcheatsheets.com/
+https://icons.getbootstrap.com/
+https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-label
+https://getbootstrap.com/docs/4.6/content/images/
+https://developer.mozilla.org/en-US/docs/Web/CSS/align-items
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Aligning_Items_in_a_Flex_Container
+https://css-tricks.com/negative-margins/
+

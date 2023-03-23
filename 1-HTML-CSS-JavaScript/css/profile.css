@@ -1,0 +1,34 @@
+h1 {
+    text-align: center;
+    color:rgb(43, 3, 80);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: solid white;
+    border-radius: 20px;
+    border-width: 20px;
+}
+body {
+    background: rgb(194, 169, 147);
+    
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 5px solid #555;
+  }
+  div.container {
+    text-align: center;
+  }
+  
+  ul.myUL {
+    display: inline-block;
+    text-align: left;
+  }
+ 
+  div.sounds {
+    text-align: center;
+
+  }
+  div.mp3 {
+    text-align: center;
+  }

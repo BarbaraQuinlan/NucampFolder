@@ -1,0 +1,33 @@
+body {
+    background: #7af8d9;
+    font-family: Brush Script MT, cursive, serif;
+}
+    
+
+h1 {
+    color: rgb(185, 14, 228);
+    font: 40px Courier , Helvetica, serif;
+}
+table {
+    width: 50%;
+    border: rgb(37, 9, 90) dotted 5px 
+    
+}
+    
+thead {
+    text-align: left;
+    
+}
+
+label {
+    display: block;
+    
+
+}
+
+#submit-btn {
+    display: block;
+    color: white;
+    background: green;
+
+}
